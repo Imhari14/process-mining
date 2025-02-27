@@ -1,0 +1,26 @@
+case:concept:name,concept:name,time:timestamp,org:resource,costs
+1,register request,2024-01-01 09:00:00,Mike,50
+1,examine thoroughly,2024-01-01 10:00:00,Sara,400
+1,check ticket,2024-01-01 11:00:00,Pete,100
+1,decide,2024-01-01 12:00:00,Sara,200
+1,reject request,2024-01-01 14:00:00,Pete,200
+2,register request,2024-01-01 09:30:00,Mike,50
+2,examine casually,2024-01-01 10:30:00,Pete,400
+2,check ticket,2024-01-01 11:30:00,Mike,100
+2,decide,2024-01-01 12:30:00,Sara,200
+2,pay compensation,2024-01-01 13:30:00,Pete,200
+3,register request,2024-01-01 10:00:00,Pete,50
+3,examine thoroughly,2024-01-01 11:00:00,Mike,400
+3,check ticket,2024-01-01 12:00:00,Sara,100
+3,decide,2024-01-01 13:00:00,Pete,200
+3,pay compensation,2024-01-01 14:00:00,Sara,200
+4,register request,2024-01-02 09:00:00,Sara,50
+4,examine thoroughly,2024-01-02 10:00:00,Pete,400
+4,check ticket,2024-01-02 11:00:00,Mike,100
+4,decide,2024-01-02 12:00:00,Sara,200
+4,reject request,2024-01-02 13:00:00,Mike,200
+5,register request,2024-01-02 09:30:00,Mike,50
+5,examine casually,2024-01-02 10:30:00,Sara,400
+5,check ticket,2024-01-02 11:30:00,Pete,100
+5,decide,2024-01-02 12:30:00,Mike,200
+5,pay compensation,2024-01-02 13:30:00,Sara,200
